@@ -15,19 +15,16 @@
  		 <div class="form-group">
    			 <label for="nome">Nome</label>
     			<input type="text" class="form-control" id="nome" " placeholder="Inserisci il tuo nome">
-  		  <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
  		 </div>
   		
   		 <div class="form-group">
    			 <label for="cognome">Cognome</label>
     			<input type="text" class="form-control" id="cognome"  placeholder="Inserisci il tuo cognome">
-  		  <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
  		 </div>
 
  		 <div class="form-group">
    			 <label for="indirizzo">Indirizzo</label>
-    			<input type="text" class="form-control" id="indirizzo" rows="5"><textarea>
-  		  <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
+    			<input type="text" class="form-control" id="indirizzo" rows="5"></textarea>
  		 </div>
 
 
